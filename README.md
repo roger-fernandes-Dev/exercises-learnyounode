@@ -2,6 +2,8 @@
 
 Aqui estão todos os exercícios basicos de javascript do site NodeSchool
 
-😍😍😍😍😍😍😍😍 muito paixão
-🎧🎧🎧🎧🎧🎧🎧🎧 muita musica
-💻💻💻💻💻💻💻💻 e muito código
+😍😍😍😍😍😍😍😍 muito paixão<br/> 🎧🎧🎧🎧🎧🎧🎧🎧 muita musica<br/> 💻💻💻💻💻💻💻💻 e muito código<br/><br/>
+É muito bom fazer o que gostamos de fazer
+fique q vontade para copiar e estudar
+
+sempre estará aqui
