@@ -1,9 +1,9 @@
 # exercises-learnyounode
 
-Aqui estão todos os exercícios basicos de javascript do site NodeSchool
+Here are all the basic javascript exercises from the NodeSchool website
 
-😍😍😍😍😍😍😍😍 muito paixão<br/> 🎧🎧🎧🎧🎧🎧🎧🎧 muita musica<br/> 💻💻💻💻💻💻💻💻 e muito código<br/><br/>
-É muito bom fazer o que gostamos de fazer,
-fique a vontade para copiar e estudar
+😍😍😍😍😍😍😍😍 a lot of passion<br/> 🎧🎧🎧🎧🎧🎧🎧🎧 a lot of music<br/> 💻💻💻💻💻💻💻💻 and a lot of code<br/><br/>
+It's great to do what we like to do,
+feel free to copy and study
 
-sempre estará aqui
+will always be here
